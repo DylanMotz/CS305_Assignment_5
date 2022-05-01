@@ -6,3 +6,5 @@ This project is a calculator app that allows the user to do lots of different ty
 
 # License
 [License Link](https://github.com/DylanMotz/CS305_Assignment_5/blob/main/LICENSE)
+
+Shayne Sellner
